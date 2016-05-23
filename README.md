@@ -11,3 +11,7 @@ Once these files are deployed to ~/.local/share/mime, AsciiDoc files with an ado
 
 
 For a detailed description see: https://ubuntu-mate.community/t/creating-new-mime-types/4351
+
+## Licence
+
+Public domain.
